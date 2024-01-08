@@ -22,22 +22,22 @@ function staticLoadPlaces() {
 
 var models = [
     {
-        url: './assets/magnemite/scene.gltf',
+        url: './assets/fati/scene.gltf',
         scale: '0.5 0.5 0.5',
-        info: 'Magnemite, Lv. 5, HP 10/10',
+        info: 'fati',
         rotation: '0 180 0',
     },
     {
-        url: './assets/articuno/scene.gltf',
+        url: './assets/fati2/scene.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
-        info: 'Articuno, Lv. 80, HP 100/100',
+        info: 'fati2',
     },
     {
-        url: './assets/dragonite/scene.gltf',
+        url: './assets/fati3/scene.gltf',
         scale: '0.08 0.08 0.08',
         rotation: '0 180 0',
-        info: 'Dragonite, Lv. 99, HP 150/150',
+        info: 'fati3',
     },
 ];
 
