@@ -22,22 +22,22 @@ function staticLoadPlaces() {
 
 var models = [
     {
-        url: './assets/fati/scene.gltf',
+        url: './assets/F1/scene.gltf',
         scale: '0.5 0.5 0.5',
-        info: 'fati',
+        info: 'F1',
         rotation: '0 180 0',
     },
     {
-        url: './assets/fati2/scene.gltf',
+        url: './assets/F2/scene.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
-        info: 'fati2',
+        info: 'F2',
     },
     {
-        url: './assets/fati3/scene.gltf',
+        url: './assets/F3/scene.gltf',
         scale: '0.08 0.08 0.08',
         rotation: '0 180 0',
-        info: 'fati3',
+        info: 'F3',
     },
 ];
 
